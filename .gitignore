@@ -61,11 +61,13 @@ build/
 # Kernel Module Compile Results
 *.mod*
 *.cmd
+*.ssh*
 .tmp_versions/
 modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
 
 # Targets to ignore
 bin/
