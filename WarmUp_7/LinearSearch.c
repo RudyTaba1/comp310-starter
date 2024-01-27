@@ -31,7 +31,7 @@ int main(){
     printf("size of array: %d\n", size);
     
     if(index != -1){
-        printf("Target found at index %d\n", index);
+        printf("Target found at index: %d\n", index);
     }
     else{
         printf("Target not found\n");
