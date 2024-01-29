@@ -1,1 +1,1 @@
-add_executable(addMatrices addMatrices.c)
+add_executable(MatriceOperations addMatrices.c)
